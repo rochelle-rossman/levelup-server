@@ -1,0 +1,24 @@
+[
+  {
+    "model": "levelupapi.event",
+    "pk": 1,
+    "fields": {
+      "game": 1,
+      "description":"Catan is a board game for two to four players in which you compete to gather resources and build the biggest settlements on the fictional island of Catan. It takes approximately one hour to play.",
+      "date": "2022-11-20",
+      "time": "18:00",
+      "organizer":1
+    }
+  },
+  {
+    "model":"levelupapi.event",
+    "pk": 2,
+    "fields": {
+      "game": 2,
+      "description":"Monopoly is a real-estate board game for two to eight players. The player's goal is to remain financially solvent while forcing opponents into bankruptcy by buying and developing pieces of property. Bankruptcy results in elimination from the game. The last player remaining on the board is the winner.",
+      "date":"2022-11-22",
+      "time":"18:00",
+      "organizer":1
+    }
+  }
+]
